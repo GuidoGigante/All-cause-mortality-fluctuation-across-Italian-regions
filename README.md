@@ -7,3 +7,5 @@ The analysis of the data (correlations, commuters' flux, etc.) relies heavily on
 The fitting procedures, instead, rely heavily on Jax (to just-in-time compile and compute the gradients).
 
 The notebook produces all the plots presented in the paper.
+
+The data used are described in the paper. I provide a link to a personal copy of the data (see the notebook) to make it easier to reproduce the results.
