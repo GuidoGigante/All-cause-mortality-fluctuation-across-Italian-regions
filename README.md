@@ -1,5 +1,5 @@
 # All-cause-mortality-fluctuation-across-Italian-regions
-Here it is the code to reproduce the results presented in "Reconstruction of the temporal correlation network of all-cause mortality fluctuation across Italian regions: the importance of temperature and among-nodes flux" by Guido Gigante and Alessandro Giuliani (https://arxiv.org/abs/2211.12395).
+Here is the code to reproduce the results presented in "Reconstruction of the temporal correlation network of all-cause mortality fluctuation across Italian regions: the importance of temperature and among-nodes flux" by Guido Gigante and Alessandro Giuliani (https://arxiv.org/abs/2211.12395).
 
 The code is just a self-consistent (apart from mostly standard imports) Jupyter notebook. The cells should be run roughly in order of appearance.
 
